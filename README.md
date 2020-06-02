@@ -1,5 +1,7 @@
 # grunt-closure-compiler
 
+**NOT MAINTAINED – JUST FOR LEGACY USE**
+
 A Grunt task for [Closure Compiler](https://developers.google.com/closure/compiler/).
 
 ## Getting Started
