@@ -33,7 +33,7 @@ module.exports = function(grunt) {
       return false;
     }
 
-    var command = 'java -jar "' + closurePath + '/build/compiler.jar"';
+    var command = 'java -jar "' + path.join(closurePath, 'compiler.jar')+'"';
 
     data.cwd = data.cwd || './';
 
